@@ -7,6 +7,7 @@ header:
 
 categories:
   - Spectrum
+comments: true
 ---
 
 Avast ..not one for land-lubbers.
