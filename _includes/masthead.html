@@ -13,7 +13,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           {% for category in site.categories %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ category.url }}">{{ category | first }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}/categories/#{{ category | first }}">{{ category | first }}</a></li>
               {% for post in page.categories.category %}
               {{ post.title }}
             {% endfor %}            
