@@ -11,9 +11,9 @@ classes:
   - dark-theme
 ---
 
-Avast! ..not one for land-lubbers.
+Avast ..not one for land-lubbers.
 
-![image-center](/assets/images/game-shots/WorseThingsHappenAtSea.jpg){: .align-right}
+![image-center](/assets/images/game-shots/WorseThingsHappenAtSea.gif){: .align-right}
 
 Of the hundreds of Spectrum games I owned, this one stands out a little and I think this is due to the quirky nature of the gameplay and the odd name of the game.
 
