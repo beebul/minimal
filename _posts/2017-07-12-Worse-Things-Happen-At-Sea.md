@@ -2,6 +2,7 @@
 title: "Worse Things Happen at Sea"
 header:
   overlay_image: /assets/images/worse-things-happen-at-sea.jpg
+  overlay_filter: 0.5
   caption: "Worse Things Happen At Sea"
   cta_url: "https://unsplash.com"
 
