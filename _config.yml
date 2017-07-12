@@ -80,7 +80,7 @@ author:
   name             : "David Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Adelaide SA"
   email            :
   uri              :
   bitbucket        :
@@ -245,3 +245,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+collections:
+  Systems:
+    output: true
+    permalink: /:collection/:path/
+  Recipes:
+    output: true
+    permalink:  /:collection/:path/
