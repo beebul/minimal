@@ -12,6 +12,12 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          {% for category in site.categories %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ category.url }}">{{ category | first }}</a></li>
+              {% for post in page.categories.category %}
+              {{ post.title }}
+            {% endfor %}            
+          {% endfor %}
         </ul>
         <button><div class="navicon"></div></button>
         <ul class="hidden-links hidden"></ul>
