@@ -77,8 +77,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Mr Retroid"
+  avatar           :  "/assets/images/bio-photo-me.jpg"
   bio              : "I am an amazing person."
   location         : "Adelaide SA"
   email            :
