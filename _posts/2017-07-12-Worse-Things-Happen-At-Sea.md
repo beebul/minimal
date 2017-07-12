@@ -5,6 +5,7 @@ header:
   caption: "Worse Things Happen At Sea"
 categories:
   - Spectrum
+layout: single
 classes:
   - landing
   - dark-theme
