@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil Zer∅"
+title: "Resident Evil Zerø"
 categories:
   - Gamecube
 tags:
