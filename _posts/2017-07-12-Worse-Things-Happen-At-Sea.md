@@ -13,7 +13,7 @@ classes:
 
 Avast ..not one for land-lubbers.
 
-![Loading-Screen](assets/images/gameshots/wthas.gif){: .align-right}
+![Loading-Screen](minimal/assets/images/gameshots/wthas.gif){: .align-right}
 
 Of the hundreds of Spectrum games I owned, this one stands out a little and I think this is due to the quirky nature of the gameplay and the odd name of the game.
 
