@@ -12,8 +12,9 @@ comments: true
 
 Avast ..not one for land-lubbers.
 
-![Loading-Screen](/minimal/assets/images/gameshots/wthas.gif){: .align-right} 
 
 Of the hundreds of Spectrum games I owned, this one stands out a little and I think this is due to the quirky nature of the gameplay and the odd name of the game.
+
+![WTHAS]({{ site.url }}{{ site.baseurl }}/assets/images/gameshots/wthas.gif){: .align-right} 
 
 Released by Silversoft Ltd in 1984 this was a dfds fdsg dg
