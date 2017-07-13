@@ -193,7 +193,10 @@
     }
 
     &.site-title {
-      margin-left: 0;
+    margin-left: 0;
+    background: #5a3d7f;
+    color: whitesmoke;
+    padding: .4rem;
     }
   }
 
@@ -203,7 +206,7 @@
     border: 0;
     outline: none;
     color: #fff;
-    background-color: $primary-color;
+    background-color: $gamecube-purple;
     cursor: pointer;
   }
 

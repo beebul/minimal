@@ -60,7 +60,6 @@ $gamecube-purple: #7851a9;
 $gamecube-spice-orange: #F08734;
 
 
-
 $body-color                 : #fff !default;
 $background-color           : #fff !default;
 $code-background-color      : #fafafa !default;
@@ -102,9 +101,9 @@ $xing-color                 : #006567 !default;
 $link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
-$masthead-link-color        : $primary-color !default;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+$masthead-link-color        : $gamecube-purple !default;
+$masthead-link-color-hover  : mix(#000, $gamecube-purple, 25%) !default;
+$navicon-link-color-hover   : mix(#fff, $gamecube-purple, 75%) !default;
 
 /*
    Breakpoints
