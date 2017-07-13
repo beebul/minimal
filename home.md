@@ -1,8 +1,11 @@
 ---
 layout: splash
+classes:
+  - landing
+  - dark-theme
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  #overlay_color: "#5e616c"
   overlay_image: /assets/images/home-splash-1.jpg
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
